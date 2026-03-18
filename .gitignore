@@ -1,0 +1,13 @@
+# IDE
+.idea/
+.vscode/
+*.swp
+*~
+
+# Java
+*.class
+*.jar
+target/
+build/
+out/
+.DS_Store
